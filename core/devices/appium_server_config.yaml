@@ -1,29 +1,29 @@
 SERVER_1:
   NAME: "Server 1"
-  LOG_FILE_NAME: "appium_log_1.txt"
+  LOG_FILE_NAME: "appium_run.log"
   CMD: "appium -a 127.0.0.1 -p 4723"
   URL: "http://localhost:4723/wd/hub"
   MOBILE_NAME: "MOBILE_1"
   DESIRED_CAP:
-    udid: "4200a37b96a2a427"
-    deviceName: "Samsung_1"
+    udid: ""
+    deviceName: ""
     platformName: "Android"
-    automationName: "UiAutomator2"
+    automationName: "Test1"
     newCommandTimeout: "1000"
     platformVersion: "8.1.0"
     no-reset: True
     full-reset: False
 SERVER_2:
   NAME: "Server 2"
-  LOG_FILE_NAME: "appium_log_2.txt"
+  LOG_FILE_NAME: "appium_run.log"
   CMD: "appium -a 127.0.0.1 -p 4823"
   URL: "http://localhost:4823/wd/hub"
   MOBILE_NAME: "MOBILE_2"
   DESIRED_CAP:
-    udid: "4200a37b960ca4a1"
-    deviceName: "Samsung_2"
+    udid: ""
+    deviceName: ""
     platformName: "Android"
-    automationName: "UiAutomator2"
+    automationName: "Test1"
     newCommandTimeout: "1000"
     platformVersion: "8.1.0"
     no-reset: True
