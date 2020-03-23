@@ -1,0 +1,26 @@
+MENU:
+  x: 980
+  y: 265
+RANDOM:
+  x: 363
+  y: 387
+HOME:
+  x: 90
+  y: 125
+SEARCH:
+  x: 873
+  y: 121
+CAM:
+  x: 538
+  y: 1672
+LOC_TUPLE: ["Phoenix Mall Bangalore", "Orion Mall", "Nandi Hills Bangalore", "Starbucks India", "Wonderla"]
+POST: 'POST'
+WORD_COMMENT: 'Nice'
+FRIEND: 'lokesh muthuraj'
+ADD_FRIEND: '(//android.view.ViewGroup[@content-desc="Add friend request"])'
+SHARE_POST: '(//android.widget.TextView[@content-desc="Share button"])[1]'
+UPLOAD_MEDIA: '(//android.view.ViewGroup[@content-desc="{med}"])[3]'
+LIVE_CAM: '//android.widget.Button[@content-desc="Take photo or hold for video"]/android.view.View[3]'
+PHOTO_UPLOAD: '/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/androidx.viewpager.widget.ViewPager/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.view.ViewGroup[4]'
+CHECK_IN: '/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/androidx.viewpager.widget.ViewPager/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.view.ViewGroup[5]'
+LIVE_VIDEO: '/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/androidx.viewpager.widget.ViewPager/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.view.ViewGroup[3]'

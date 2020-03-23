@@ -1,0 +1,22 @@
+HOME:
+  x: 108
+  y: 1836
+TRENDING:
+  x: 328
+  y: 1836
+SUBSCRIPTIONS:
+  x: 538
+  y: 1836
+INBOX:
+  x: 747
+  y: 1836
+LIBRARY:
+  x: 968
+  y: 1836
+BUTTONS: ['HOME', 'TRENDING', 'SUBSCRIPTIONS', 'INBOX', 'LIBRARY']
+CONTACT:
+  MOBILE_1: 'Samsung Testing 1'
+  MOBILE_2: 'Samsung Testing 2'
+SEARCH_TUPLE: ['quadcopters', 'DELL Keyboard', 'mercedes benz', 'volcano cake', 'mushroom soup']
+RECORD_CIRCLE: 'com.google.android.youtube:id/gallery_camera_record_button_record_circle'
+CLICK_VIDEO: '(//android.widget.ImageView[@content-desc="Action menu"])[3]'

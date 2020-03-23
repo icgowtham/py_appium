@@ -1,0 +1,33 @@
+END_CALL:
+  x: 534
+  y: 1518
+SWIPE_RIGHT:
+  x: 600
+  y: 1500
+STATUS_BUTTON:
+  x: 960
+  y: 1790
+LIVE_RECORD:
+  x: 534
+  y: 1732
+EMOJI:
+  x: 56
+  y: 1348
+FOLDER_DICT:
+  Photo: 'WhatsApp Images'
+  Video: 'All videos'
+CALL_DICT:
+  audio: 'Call'
+  video: 'Video call'
+CALL_LIST: ['audio', 'video']
+MEDIA_LIST: ['Photo', 'Video']
+CHAT_LIST: ['Hello!', 'Have', 'a', 'nice', 'day']
+DOC_FILE: 'Animal Planet GO_v2.14.5_apkpure.com.apk'
+ACCEPT_CALL: 'Accept call button. Double tap to accept.'
+CONTACT:
+  MOBILE_1: 'Samsung Testing 3'
+  MOBILE_2: 'Samsung Testing 1'
+DOCUMENT: 'Document'
+SEND: 'Send'
+XPATH_SEND: '//android.widget.ImageButton[@content-desc=\"Send\"]'
+XPATH_GALLERY: '(//android.widget.ImageView[@content-desc="{media}"])[2]'
